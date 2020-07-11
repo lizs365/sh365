@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{632:function(n,e){n.exports="\x3c!--\ntitle: 日积月累\nlayout: IndexLayout\nvisible: true\nredirect: shell\n--\x3e\n\n\ntest\n\n\n"}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{633:function(n,t){n.exports="\x3c!--\ntitle: Music游戏\ngithub: https://567893.xyz\nsort: 10\n--\x3e\n"}}]);
